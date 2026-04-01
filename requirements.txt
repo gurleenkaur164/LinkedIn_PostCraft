@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+crewai-embeddings
+langchain-groq
+python-dotenv
+requests
