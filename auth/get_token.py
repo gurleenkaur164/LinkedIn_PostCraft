@@ -68,8 +68,8 @@ def run_auth_flow():
         f"&state=scrollstopper_auth"   
     )
 
-    print("\n🔐 Opening LinkedIn login in your browser...")
-    print("   If it doesn't open automatically, visit this URL:")
+    print(" Opening LinkedIn login in your browser...")
+    print(" If it doesn't open automatically, visit this URL:")
     print(f"   {auth_url}\n")
     webbrowser.open(auth_url)
 
